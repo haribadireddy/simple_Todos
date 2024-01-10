@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.item-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.heading{
+    color: #000000;
+    font-family: "roboto";
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.button{
+    background-color: transparent;
+    border: 1px solid #ff0b37;
+    color: #ff0b37;
+    font-family: "roboto";
+    border-radius: 5px;
+}
